@@ -1,11 +1,16 @@
 body {
     text-align:justify;
     color: black;
+    margin-left: 05%;
+    margin-right: 05%;
 }
 h1{
     font-size: 100;
     color:#5d615d;
     background-color:whitesmoke ;
+    text-align: center;
+    margin-left: 05%;
+    margin-right: 05%;
 }
 body{background-color:#fcd2d2;
 }
